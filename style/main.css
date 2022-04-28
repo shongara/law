@@ -1,0 +1,25 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+    background-image: url(../image/paper.jpg);
+    background-size: 100%;
+    background-size: cover;
+} 
+.text p{
+    font-weight: 400;
+    font-size: 20px;
+    margin: 50px;
+    word-spacing: normal;
+}
+p {
+    display: block;
+    margin-block-start: 10px;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 0px;
+}
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+}
